@@ -1,0 +1,3 @@
+.olControlSelectBaseLayer {position: absolute; top: 15px; right: 15px; text-align: right;}
+.olControlSelectBaseLayer div {border: 2px outset #888; display: inline-block; padding: 2px; background-color: #fff;}
+.olControlSelectBaseLayer div.active {border-style: inset;}
