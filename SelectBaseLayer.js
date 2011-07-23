@@ -1,3 +1,6 @@
+/* Copyright (c) 2011, Gilles Bassière. Published under the Modified BSD license.
+ * See LICENSE.txt for the full text of the license. */
+
 /**
  * @requires OpenLayers/Control.js
  */
