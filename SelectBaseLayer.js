@@ -125,7 +125,7 @@ OpenLayers.Control.SelectBaseLayer = OpenLayers.Class(OpenLayers.Control, {
      */
     onClick: function(e) {
         this.map.setBaseLayer(this.layer);
-        OpenLayers.Event.stop(evt);
+        OpenLayers.Event.stop(e);
     },
 
     /**
